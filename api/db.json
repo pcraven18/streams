@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "asdf",
+      "description": "asdfasdfsadfdf",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "This is a new stream",
+      "id": 2
+    },
+    {
+      "title": "edit test",
+      "description": "this is an edit demo",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "this is a test",
+      "userId": "104071027012495102397",
+      "id": 5
+    },
+    {
+      "title": "example",
+      "description": "test example",
+      "userId": "104071027012495102397",
+      "id": 6
+    }
+  ]
+}
